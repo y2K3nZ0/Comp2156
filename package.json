@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "echo \"Warning: No tests created yet.\""
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> a035819 (Nodejs project created)
   },
   "repository": {
     "type": "git",
